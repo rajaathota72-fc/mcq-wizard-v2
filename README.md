@@ -10,7 +10,7 @@ Optionally, users can modify the LLM configuration in config.py .
 
 ## Accessing the App
 
-You can access the app on the Streamlit Cloud community at [mcq-wizard-v2.streamlit.app](mcq-wizard-v2.streamlit.app)
+You can access the app on the Streamlit Cloud community at [!mcq-wizard-v2.streamlit.app](mcq-wizard-v2.streamlit.app)
 
 ## Getting Started
 
